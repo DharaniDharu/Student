@@ -44,5 +44,5 @@ public class NoClassDefFoundErrorDueToStaticInitFailure {
 }
 
 
-Read more: http://www.java67.com/2012/09/palindrome-java-program-to-check-number.html#ixzz4pXQQxkhf
+
    
